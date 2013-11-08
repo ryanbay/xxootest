@@ -1,0 +1,23 @@
+{
+  "family": "alice",
+  "name": "xxoo",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/jundabei/xxoo",
+  "author": "",
+  "repository": {
+    "type": "http",
+    "url": "http://github.com/jundabei/xxoo.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["xxoo.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
